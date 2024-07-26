@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## 获取 token
 ![token](https://s3.jpg.cm/2021/08/17/IUIASp.png)
-## 使用 python3 运行
+## 使用 python3 运行(注意，此处使用bash执行，使用pycharm会报错)
 ```bash
 python ExportMD.py
 ```
